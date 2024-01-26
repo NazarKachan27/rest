@@ -1,0 +1,96 @@
+header img { 
+    width: 253px; 
+    height: 86.5px; 
+    margin-left: 375px; 
+} 
+header { 
+    border-bottom: 1px solid #A6A6A6; 
+    margin-bottom: 37px; 
+} 
+header h2 { 
+    color: #000; 
+text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25); 
+font-family: Inter; 
+font-size: 30px; 
+font-style: normal; 
+font-weight: 100; 
+line-height: normal; 
+text-align: center; 
+} 
+body { 
+    width: 1000px; 
+    font-family: "Gill Sans", sans-serif; 
+} 
+.img { 
+    width: 536px; 
+height: 430px; 
+} 
+.im { 
+    width: 590px; 
+height: 424px; 
+float:right; 
+} 
+.i { 
+    width: 602px; 
+height: 426px; 
+} 
+.h1,.h,.text { 
+    color: grey; 
+font-family: ; 
+font-size: 48px; 
+font-style: normal; 
+font-weight: 100; 
+line-height: normal; 
+opacity: 0; 
+} 
+.h1 { 
+    position: absolute; 
+  top: 404px; 
+  left: 10px; 
+  display: flex; 
+  flex-direction: column; 
+  justify-content: flex-end; 
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent); 
+  width: 536px; 
+  height: 215px; 
+  text-align: center; 
+} 
+.h { 
+    position: absolute; 
+  top: 835px; 
+  left: 420px; 
+  display: flex; 
+  flex-direction: column; 
+  justify-content: flex-end; 
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent); 
+  width: 590px; 
+  height: 215px; 
+  text-align: center; 
+} 
+.text { 
+    position: absolute; 
+  top: 1260px; 
+  left: 10px; 
+  display: flex; 
+  flex-direction: column; 
+  justify-content: flex-end; 
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent); 
+  width: 602px; 
+  height: 215px; 
+  text-align: center; 
+} 
+.kitchen { 
+    width: 536px; 
+} 
+.h1:hover { 
+    opacity: 1; 
+    transition: 1s; 
+} 
+.text:hover { 
+    opacity: 1; 
+    transition: 1s; 
+} 
+.h:hover { 
+    opacity: 1; 
+    transition: 1s; 
+}
